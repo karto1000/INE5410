@@ -1,0 +1,8 @@
+/usr/bin/ld: build/main.o: in function `main':
+/tmp/t1-test/t1/main.c:82: undefined reference to `cozinha_init'
+/usr/bin/ld: /tmp/t1-test/t1/main.c:93: undefined reference to `processar_pedido'
+/usr/bin/ld: /tmp/t1-test/t1/main.c:101: undefined reference to `cozinha_destroy'
+collect2: error: ld returned 1 exit status
+make[2]: *** [Makefile:51: build/program] Error 1
+Programa não compilou
+Grade for t1: -1

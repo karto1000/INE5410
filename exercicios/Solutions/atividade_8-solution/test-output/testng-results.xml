@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5478" started-at="2018-10-17T23:00:02Z" finished-at="2018-10-17T23:00:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5478" started-at="2018-10-17T23:00:02Z" finished-at="2018-10-17T23:00:08Z">
+      <class name="org.example.ine5410.MergeSortTest">
+        <test-method status="PASS" signature="testSort(org.example.ine5410.MergeSort, [I)[pri:0, instance:org.example.ine5410.MergeSortTest@66d2e7d9]" name="testSort" duration-ms="1113" started-at="2018-10-17T20:00:02Z" data-provider="sortData" finished-at="2018-10-17T20:00:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.example.ine5410.MergeSortSerial@3c0ecd4b]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[I@35d176f7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSort -->
+        <test-method status="PASS" signature="testSort(org.example.ine5410.MergeSort, [I)[pri:0, instance:org.example.ine5410.MergeSortTest@66d2e7d9]" name="testSort" duration-ms="903" started-at="2018-10-17T20:00:03Z" data-provider="sortData" finished-at="2018-10-17T20:00:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.example.ine5410.MergeSortThread@56ef9176]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[I@35d176f7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSort -->
+        <test-method status="PASS" signature="testSort(org.example.ine5410.MergeSort, [I)[pri:0, instance:org.example.ine5410.MergeSortTest@66d2e7d9]" name="testSort" duration-ms="723" started-at="2018-10-17T20:00:04Z" data-provider="sortData" finished-at="2018-10-17T20:00:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.example.ine5410.MergeSortExecutor@1ed4004b]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[I@35d176f7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSort -->
+        <test-method status="PASS" signature="testSort(org.example.ine5410.MergeSort, [I)[pri:0, instance:org.example.ine5410.MergeSortTest@66d2e7d9]" name="testSort" duration-ms="685" started-at="2018-10-17T20:00:05Z" data-provider="sortData" finished-at="2018-10-17T20:00:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.example.ine5410.MergeSortForkJoin@544fe44c]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[I@35d176f7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSort -->
+        <test-method status="PASS" signature="testSpeed()[pri:0, instance:org.example.ine5410.MergeSortTest@66d2e7d9]" name="testSpeed" duration-ms="2013" started-at="2018-10-17T20:00:06Z" finished-at="2018-10-17T20:00:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpeed -->
+      </class> <!-- org.example.ine5410.MergeSortTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b685d7d7-8659-4415-b6df-3e0385d3bf87" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1278693760">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.90" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="25" />
+          <entry key="gitignore" value="5" />
+          <entry key="java" value="8938" />
+          <entry key="txt" value="112" />
+          <entry key="xml" value="258" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Git file" value="5" />
+          <entry key="JAVA" value="8938" />
+          <entry key="PLAIN_TEXT" value="137" />
+          <entry key="XML" value="258" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="Git file" value="1" />
+          <entry key="JAVA" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="536933136">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assert</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../broadcast/server/repository" value="4317678416184" />
+        <entry key="$PROJECT_DIR$/../../../../../ine5426/ant/compiler/lyra" value="1429280318519" />
+        <entry key="$PROJECT_DIR$/../../../../../ine5426/ant/compiler/lyra-runtime" value="2869164744889" />
+        <entry key="$USER_HOME$/java_workspace/lyra" value="1429265960873" />
+        <entry key="$USER_HOME$/spring/bookmarks" value="1430522540000" />
+        <entry key="$USER_HOME$/tmp/downloads/jadex-3.0.0-RC63/sources" value="64021393480000" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/org/example/ine5410/AbstractMergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortSerial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortForkJoin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortHelper.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/example/ine5410/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/example/ine5410/MergeSortTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="threads" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="threads" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="threads" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="2326" />
+    <option name="y" value="24" />
+    <option name="width" value="960" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-threads-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atividade_8-solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-threads-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atividade_8-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-threads-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atividade_8-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-threads-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atividade_8-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-threads-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atividade_8-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ine5410" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-threads-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atividade_8-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-threads-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atividade_8-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-threads-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atividade_8-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ine5410" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/Main.java&#10;mergeso&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/test/java/org/example/ine5410/MergeSortTest.java&#10;pom.xml&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/pom.xml&#10;mergesorttes&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/test/java/org/example/ine5410/MergeSortTest.java&#10;mergesorttest&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/test/java/org/example/ine5410/MergeSortTest.java&#10;mergesortseri&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortSerial.java&#10;thread&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortThread.java&#10;revert&#9;ACTION&#9;ChangesView.Revert&#10;mergesort&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortThread.java&#10;mergesortthread&#9;PSI&#9;JAVA://org.example.ine5410.MergeSortThread&#10;mergesorthread&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortThread.java&#10;MergeSortExe&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortExecutor.java&#10;mergethread&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortThread.java&#10;Main&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/Main.java&#10;test&#9;PSI&#9;JAVA://org.example.ine5410.MergeSortTest&#10;mergesortexe&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortExecutor.java&#10;exe&#9;PSI&#9;JAVA://org.example.ine5410.MergeSortExecutor&#10;exec&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortExecutor.java&#10;Thread&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortThread.java&#10;forkjoi&#9;PSI&#9;JAVA://org.example.ine5410.MergeSortForkJoin&#10;mergeexe&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortExecutor.java&#10;mergesortthre&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortThread.java&#10;merge&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortSerial.java&#10;mergehel&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortHelper.java&#10;mergeser&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortSerial.java&#10;goa&#9;ACTION&#9;Maven.ExecuteGoal&#10;mergesoexe&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortExecutor.java&#10;merges&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/test/java/org/example/ine5410/MergeSortTest.java&#10;mergetes&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/test/java/org/example/ine5410/MergeSortTest.java&#10;mergestes&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/test/java/org/example/ine5410/MergeSortTest.java&#10;mer&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortExecutor.java&#10;goal&#9;ACTION&#9;Maven.ExecuteGoal&#10;mergesotes&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/test/java/org/example/ine5410/MergeSortTest.java&#10;mergesexe&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortExecutor.java&#10;mergesorthe&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortHelper.java&#10;mergesote&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/test/java/org/example/ine5410/MergeSortTest.java&#10;mergesotte&#9;null&#9;null&#10;pom.x&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/pom.xml&#10;mergesoser&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/src/main/java/org/example/ine5410/MergeSortSerial.java&#10;pom&#9;FILE&#9;file:///home/alexis/ufsc/ed-ine5410-2018.2/ine5410-grade/examples/java-threads/solution/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542579031731" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.ine5410" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MergeSortTest">
+    <configuration name="MergeSortTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ine5410.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ine5410" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ine5410.MergeSortTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ine5410.Main" />
+      <module name="threads" />
+      <option name="PROGRAM_PARAMETERS" value="-i FORKJOIN 65000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ine5410.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ine5410.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ine5410" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ine5410.MergeSortTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Android JUnit.MergeSortTest" />
+      <item itemvalue="JUnit.MergeSortTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MergeSortTest" />
+        <item itemvalue="Android JUnit.MergeSortTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b685d7d7-8659-4415-b6df-3e0385d3bf87" name="Default Changelist" comment="" />
+      <created>1539022196500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539022196500</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Simplified solution code">
+      <created>1539112535466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539112535466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Reduced test cases number and added test for speed">
+      <created>1539141916925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539141916925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MergeSortTest - 2018.10.19 at 12h 36m 33s.xml">
+      <configuration name="MergeSortTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.10.19 at 12h 37m 13s.xml">
+      <configuration name="MergeSortTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.10.19 at 12h 37m 40s.xml">
+      <configuration name="MergeSortTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.10.19 at 12h 37m 55s.xml">
+      <configuration name="MergeSortTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.10.19 at 13h 07m 04s.xml">
+      <configuration name="MergeSortTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.10.22 at 20h 47m 24s.xml">
+      <configuration name="MergeSortTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.10.22 at 20h 47m 43s.xml">
+      <configuration name="MergeSortTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.10.22 at 20h 54m 00s.xml">
+      <configuration name="MergeSortTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.10.22 at 20h 54m 24s.xml">
+      <configuration name="MergeSortTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.11.18 at 20h 10m 10s.xml">
+      <configuration name="MergeSortTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2326" y="24" width="960" height="1056" extended-state="4" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.297593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32982087" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936775" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32982087" />
+      <window_info anchor="bottom" id="Statistic" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32982087" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32982087" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32977587" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Simplified solution code" />
+    <MESSAGE value="Reduced test cases number and added test for speed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reduced test cases number and added test for speed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.AssertionError" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>results</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lThread.getState()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rThread.getState()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rThread.start();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rThread.join();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rThread.isAlive()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ine5410/AbstractMergeSort.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre.jar!/com/google/common/base/Stopwatch.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Stopwatch.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/ForkJoinPool.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/RecursiveTask.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/Thread.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/ThreadGroup.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ine5410/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="81" column="38" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortSerial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/example/ine5410/MergeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortForkJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ine5410/MergeSortThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#544#719#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>threads</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: args4j:args4j:2.33</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="package" />
+  </component>
+</project>
